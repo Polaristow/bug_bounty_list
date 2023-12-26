@@ -9,9 +9,11 @@
 - https://github.com/aptos-labs/aptos-core/blob/main/SECURITY.md
 - https://immunefi.com/bounty/liquidswap/
 - https://docs.pancakeswap.finance/code/smart-contracts-aptos  (https://immunefi.com/bounty/pancakeswap/)
+- https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/aptos/contracts  （https://pyth.network/bounty）
 ## sui
 - https://hackenproof.com/sui/sui-protocol
 - https://github.com/wormhole-foundation/wormhole/tree/main/sui    （https://immunefi.com/bounty/wormhole/）
 - https://mystenlabs.com/work/bug-bounty
 - https://docs.scallop.io/scallop-on-sui/bug-bounty
-- https://docs.seapad.fund/audit-and-security/bug-bounty-program
+- https://docs.seapad.fund/audit-and-security/bug-bounty-program 
+- https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/sui/contracts  （https://pyth.network/bounty）
