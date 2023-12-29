@@ -10,6 +10,7 @@
 - https://immunefi.com/bounty/liquidswap/
 - https://docs.pancakeswap.finance/code/smart-contracts-aptos  (https://immunefi.com/bounty/pancakeswap/)
 - https://github.com/pyth-network/pyth-crosschain/tree/main/target_chains/aptos/contracts  （https://pyth.network/bounty）
+- https://docs.ariesmarkets.xyz/aries-markets/security/bug-bounty
 ## sui
 - https://hackenproof.com/sui/sui-protocol
 - https://github.com/wormhole-foundation/wormhole/tree/main/sui    （https://immunefi.com/bounty/wormhole/）
